@@ -115,12 +115,13 @@ body {
     flex: 0 0 auto;
     padding: 5px;
     margin: 7px;
+    border-radius: 50%;
+    border: 1px solid white;
 }
 
-.kolecko {
+.velikosti li:hover {
     color: #f15f42;
     font-weight: 500;
-    border-radius: 50%;
     border: 1px solid #f15f42;
 }
 
